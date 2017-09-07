@@ -4,3 +4,4 @@
     ParameterHandling                   -   getParameter, getParameterValues, response, request, out, printwritter, other error handling
     Login-SignUp                        -   Users with username, password and name.
     Redirect-RequestDispatcher          -   Code import, replace & url redirect
+    ServletCreationWithWeb.xml          -   Servlet Class from Normal Java class by web.xml configuration or Annotation, Welcome file list in web.xml
