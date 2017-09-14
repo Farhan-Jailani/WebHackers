@@ -7,3 +7,4 @@
 4. **ServletCreationWithWeb.xml**- Servlet Class from Normal Java class by web.xml configuration or Annotation, Welcome file list in web.xml
 5. **Cookie-Create-Retrieve**- Cookie set & retrieve all, max age
 6. **CookieUtil-Login-Logout** - Cookie create for login, erase for logout
+7. **CRUD-ContactApp** - Contact App with Create, retrieve, update, delete and view
